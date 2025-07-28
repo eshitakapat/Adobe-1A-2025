@@ -1,0 +1,12 @@
+
+{
+  "title": "string",
+  "outline": [
+    {
+      "level": "string",
+      "text": "string",
+      "page": "integer"
+    }
+  ],
+  "fontSizes": ["float"]
+}
